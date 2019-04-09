@@ -1,5 +1,8 @@
-# Run project -
-
+## Install Dependencies -
+```js
+npm install
+```
+## Run project
 ```js
 node index.js
 ```
